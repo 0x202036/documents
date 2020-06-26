@@ -13,7 +13,7 @@
 - 设计阶段
     - [x] [分工计划书](https://github.com/0x202036/documents/blob/master/设计阶段/分工计划书.md)
     - [x] [重要数值分析报告](https://github.com/0x202036/documents/blob/master/设计阶段/重要数值分析报告.md)
-    - [ ] 详细设计说明书 
+    - [x] [详细设计说明书](https://github.com/0x202036/documents/blob/master/设计阶段/详细设计说明书.md) 
     - [x] [总体设计说明书](https://github.com/0x202036/documents/blob/master/设计阶段/总体设计说明书.md) 
 - 开发阶段
     - [x] [程序清单](https://github.com/0x202036/documents/blob/master/开发阶段/程序清单.md) 
