@@ -17,7 +17,5 @@
     - [x] [总体设计说明书](https://github.com/0x202036/documents/blob/master/设计阶段/总体设计说明书.md) 
 - 开发阶段
     - [x] [程序清单](https://github.com/0x202036/documents/blob/master/开发阶段/程序清单.md) 
-    - [ ] 单元测试报告(多份) 
 - 测试阶段
-    - [ ] 集成测试报告 
-    - [ ] 验收测试报告 
+    - [x] 集成测试报告 
